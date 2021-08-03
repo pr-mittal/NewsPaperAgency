@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.8"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\A-One\Documents\GitHub\NewsPaperAgency\NewsPaperAgency\lib\javafx-sdk-11.0.2\lib"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\A-One\Documents\GitHub\NewsPaperAgency\NewsPaperAgency\lib\poi-4.1.2\lib"/>
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="layout" value="2"/>

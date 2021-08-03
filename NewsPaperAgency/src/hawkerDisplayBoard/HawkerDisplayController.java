@@ -85,6 +85,7 @@ public class HawkerDisplayController {
 			
 			//making an array item
 //HawkerBean(String name, String mobile, String address, String areas, String aadharpic, String doj,int salary
+			
 			HawkerBean row=new HawkerBean(table.getString("name"),
 					table.getString("mobile"), 
 					table.getString("address"), 

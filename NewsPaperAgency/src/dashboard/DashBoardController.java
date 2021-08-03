@@ -49,7 +49,7 @@ public class DashBoardController {
 
     @FXML
     void openCustomerDispay(MouseEvent event) {
-    	getResource("costumerDisplayBoard/CostumerDisplay.fxml","Costumer Display");
+    	getResource("customerDisplayBoard/CustomerDisplay.fxml","Costumer Display");
     }
 
     @FXML

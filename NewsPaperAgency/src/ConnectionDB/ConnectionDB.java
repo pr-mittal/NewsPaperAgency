@@ -9,7 +9,8 @@ public class ConnectionDB {
 	{
 		Connection com=null;
 		try {
-			com=DriverManager.getConnection("jdbc:mysql://localhost/NewsAgency","root", "");
+			
+			com=DriverManager.getConnection("jdbc:mysql://localhost/newsagency","root", "");
 			if(!com.isClosed())
 			{
 				System.out.println("Connection Established Successfully");
