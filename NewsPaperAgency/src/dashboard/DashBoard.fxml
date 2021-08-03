@@ -6,7 +6,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane minHeight="500.0" minWidth="600.0" prefHeight="500.0" prefWidth="616.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dashBoard.DashBoardController">
+<AnchorPane minHeight="500.0" minWidth="600.0" prefHeight="500.0" prefWidth="616.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dashboard.DashBoardController">
    <children>
       <Label layoutX="216.0" layoutY="22.0" prefHeight="32.0" prefWidth="174.0" text="DashBoard">
          <font>
