@@ -1,5 +1,5 @@
 
-
+Proprietary software for desktop to manage records ( J2SE )
 # NewsPaperAgency
 
 Java Project for News Paper Agency , Records Handling
